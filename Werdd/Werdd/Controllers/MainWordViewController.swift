@@ -30,7 +30,6 @@ class MainWordViewController: UIViewController {
         label.text = "playfully quaint or fanciful, especially in an appealing and amusing way. a whimsical sense of humor"
         label.translatesAutoresizingMaskIntoConstraints = false
         label.frame = CGRect(x: 150, y: 150, width: 100, height: 20)
-        
         return label
     }()
 
